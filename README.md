@@ -3,4 +3,4 @@ Just another repository
 
 Hi,humans!
 
-This is README.md.
+I am practicing to edit files on GitHub.
